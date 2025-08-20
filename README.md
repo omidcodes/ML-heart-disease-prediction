@@ -3,13 +3,14 @@
 This project analyzes health survey data from the [Heart Disease Health Indicators dataset](https://www.kaggle.com/datasets/alexteboul/heart-disease-health-indicators-dataset) to predict the likelihood of heart disease.
 
 The notebook walks through **data preprocessing**, **exploratory data analysis**, and **training multiple classification models** including:
-- Logistic Regression
 - Random Forest
 - XGBoost
 - Support Vector Machine (SVM)
 - K-Nearest Neighbors (KNN)
 - Decision Tree
-- Gaussian Naive Bayes
+- Gradient Boost
+- Stacked Ensemble
+- Neural Network
 
 Model performance is evaluated using:
 - Accuracy
